@@ -1,0 +1,35 @@
+{
+  "colors": {
+    "primary": "#5865F2",
+    "success": "#57F287",
+    "warning": "#FEE75C",
+    "danger": "#ED4245",
+    "info": "#5865F2"
+  },
+  "antiRaid": {
+    "joinThreshold": 10,
+    "joinInterval": 10000,
+    "accountAgeMinimum": 604800000,
+    "action": "kick"
+  },
+  "antiSpam": {
+    "messageThreshold": 5,
+    "messageInterval": 5000,
+    "duplicateThreshold": 3,
+    "mentionThreshold": 5,
+    "actions": [
+      "warn",
+      "timeout",
+      "kick",
+      "ban"
+    ]
+  },
+  "antiNuke": {
+    "channelDeleteThreshold": 3,
+    "roleDeleteThreshold": 3,
+    "banThreshold": 5,
+    "interval": 60000,
+    "action": "removeRoles"
+  },
+  "emojis": {}
+}
