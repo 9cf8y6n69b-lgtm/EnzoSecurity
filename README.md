@@ -16,14 +16,14 @@
   <b>معمارية فائقة السرعة • استجابة لحظية دون 12ms • قاعدة بيانات SQLite WAL بدون أي تجميد • 12 محرك دفاعي نشط • 22 أمر سلاش متقدم</b>
 </p>
 
-<!-- Badges Grid -->
 <p align="center">
   <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-v14.16.3-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js v14" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-18%2B%20LTS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/قاعدة_البيانات-SQLite_(WAL_Engine)-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite WAL" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/الأوامر_المفعلة-22_أمر_سلاش-57F287?style=for-the-badge&logo=discord&logoColor=white" alt="22 Slash Commands" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/الترخيص-MIT-FEE75C?style=for-the-badge" alt="MIT License" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/زمن_الاستجابة-Sub--12ms-blueviolet?style=for-the-badge" alt="Sub-12ms Latency" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/Database-SQLite_(WAL_Engine)-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite WAL" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Commands-22_Slash_Commands-57F287?style=for-the-badge&logo=discord&logoColor=white" alt="22 Slash Commands" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-FEE75C?style=for-the-badge" alt="MIT License" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/Latency-Sub--12ms-blueviolet?style=for-the-badge" alt="Sub-12ms Latency" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome" /></a>
 </p>
 
 <!-- Quick Nav -->
@@ -430,7 +430,7 @@ EnzoSecurity/
 
 <div align="center">
 
-صُنع بـ ❤️ بواسطة **Enzo** • مصمم لحماية وإدارة مجتمعات الديسكورد باحترافية
+صُنع بكثير من ☕ بواسطة **Enzo** • مصمم لحماية وإدارة مجتمعات الديسكورد باحترافية
 
 [![GitHub Stars](https://img.shields.io/github/stars/enzo/EnzoSecurity?style=social)](https://github.com)
 [![GitHub Forks](https://img.shields.io/github/forks/enzo/EnzoSecurity?style=social)](https://github.com)
