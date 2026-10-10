@@ -13,7 +13,7 @@ const client = new ExtendedClient();
         console.error('[DB ERROR] Could not connect to database:', err);
     }
 
-    await client.start(process.env.TOKEN);
+await client.start(process.env.DISCORD_TOKEN);
 
     initDashboard(client);
 })();
