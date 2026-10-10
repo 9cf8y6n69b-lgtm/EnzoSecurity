@@ -1,10 +1,10 @@
 {
-  "name": "enzo-security",
+  "name": "sash-security",
   "version": "1.0.0",
-  "description": "EnzoSecurity — Advanced Discord Security Bot",
+  "description": "sash — Advanced Discord Security Bot",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
+"start": "node src/deploy-commands.js && node src/index.js",
     "dev": "nodemon src/index.js",
     "deploy": "node src/deploy-commands.js",
     "emojis": "node scripts/emojisengine.js"
